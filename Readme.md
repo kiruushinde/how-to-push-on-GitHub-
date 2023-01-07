@@ -19,3 +19,16 @@ so,
 now in order to push the commit's on remote which you have done on your local system, we use 
 
 10. git push -u origin master
+
+
+# adding changed files to the remote
+
+now let suppose you have added few more text to this file, and you want to see this changes on your remote.
+
+1. git status 👉 to see the changes
+2. git add "file name"
+3. git commit -m "...."
+4. git push -u origin master
+
+
+and hence we repeat the above procedure to push anything on your remote..😃
