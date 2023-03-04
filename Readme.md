@@ -20,4 +20,4 @@ Now come to your gitHub repository, and do following steps..
 
 3. git push -u origin main 
 
-that's all about pusing on gitHub.
+that's all about pushing on gitHub.
